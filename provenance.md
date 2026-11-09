@@ -15,3 +15,4 @@ ground/2s6m1-tunguska-m1.glb  <-  https://sketchfab.com/3d-models/none-0026ad3c1
 ground/k21-knifv.glb  <-  https://sketchfab.com/3d-models/none-cbd1e74d6be947189044f52643627029
 ground/wz-120c.glb  <-  https://sketchfab.com/3d-models/none-0433d6af477e4f74a2059b645e94219e
 ground/wz-211.glb  <-  https://sketchfab.com/3d-models/none-50c0c67db7064c16928c2f8ae75e532d
+ground/type-10-l-55.glb  <-  https://sketchfab.com/3d-models/none-7f216c1664a74288bb960d4b69ef9e43
