@@ -7,3 +7,4 @@ ground/type-89-ifv.glb  <-  https://sketchfab.com/3d-models/none-60889145bdff467
 ground/xm8-ags.glb  <-  https://sketchfab.com/3d-models/none-4b54278e14f14b53ad40ff29716b9730
 ground/strf-9040-bill.glb  <-  https://sketchfab.com/3d-models/none-ebd9d30f394d4a81992bc5ce6916c010
 ground/pinaka-mk-3.glb  <-  https://sketchfab.com/3d-models/none-98b0bfa05fac410bb656a67d72a88412
+ground/pgz-09.glb  <-  https://sketchfab.com/3d-models/none-01446e57fe2546d7b5f71ed269d4c43e
