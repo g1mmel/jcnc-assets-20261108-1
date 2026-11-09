@@ -39,3 +39,4 @@ ground/hunter-afv.glb  <-  https://sketchfab.com/3d-models/none-5e4bb9fbf4734574
 ground/object-685.glb  <-  https://sketchfab.com/3d-models/none-e676d217ac16416f9117a08b1ae41088
 ground/object-640.glb  <-  https://sketchfab.com/3d-models/none-515b8a4679394497b7d15871b2e6fee5
 ground/object-787.glb  <-  https://sketchfab.com/3d-models/none-9de1fd72616941b8a1406a2770c2c3cf
+ground/9k31-strela-1m.glb  <-  https://sketchfab.com/3d-models/none-8fd8db2efd36415faee310f72275aa59
