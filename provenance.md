@@ -64,3 +64,4 @@ air/oh-1-ninja.glb  <-  https://sketchfab.com/3d-models/none-d22e8511a3ee470bbb1
 air/wz-10.glb  <-  https://sketchfab.com/3d-models/none-a13537c6fc644d34ade585926f4b3bf9
 ground/t114-bat.glb  <-  https://sketchfab.com/3d-models/none-f5ead646b892479595174cd855fb6ccb
 ground/t54e1.glb  <-  https://sketchfab.com/3d-models/none-f6a42d47e2bf492e903b534aa5b72cdf
+ground/merkava-mk-4.glb  <-  https://sketchfab.com/3d-models/none-35be0b5fbe1843db9014379e9ba95c22
