@@ -12,3 +12,4 @@ ground/pll-05.glb  <-  https://sketchfab.com/3d-models/none-e12d2e917a254c468d00
 ground/t-72ab-turms-t.glb  <-  https://sketchfab.com/3d-models/none-ea2c7b36867243c0bec2fc6f41b6ce98
 ground/t-55amd-1.glb  <-  https://sketchfab.com/3d-models/none-62ebbfd98eac44ecb14e73620ba3d8af
 ground/2s6m1-tunguska-m1.glb  <-  https://sketchfab.com/3d-models/none-0026ad3c191a4074b974cbb3f4ede30a
+ground/k21-knifv.glb  <-  https://sketchfab.com/3d-models/none-cbd1e74d6be947189044f52643627029
