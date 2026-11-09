@@ -32,3 +32,4 @@ air/j-50-trident.glb  <-  https://sketchfab.com/3d-models/none-d9c32994d790495d9
 air/f-x-reppu.glb  <-  https://sketchfab.com/3d-models/none-39d508ad20ce48b8bd0763805e19224e
 ground/rooikat-mttd.glb  <-  https://sketchfab.com/3d-models/none-98594341434e4743ae97049d95b64209
 ground/g6-52-rhino.glb  <-  https://sketchfab.com/3d-models/none-7b70e39a539d45adaf06f665a8956fe7
+air/j-16-shenyang.glb  <-  https://sketchfab.com/3d-models/none-4ee246944ddb465197a3648022d911c9
