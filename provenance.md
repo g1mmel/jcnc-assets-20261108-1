@@ -22,3 +22,4 @@ ground/karrar.glb  <-  https://sketchfab.com/3d-models/none-ab0b8fa23a0844f3a21c
 ground/xm2001-crusader.glb  <-  https://sketchfab.com/3d-models/none-eba55676070b4b2c923a5379f2681ed9
 ground/xm1a3.glb  <-  https://sketchfab.com/3d-models/none-a6d64684f6a04572a5030b02c0f93237
 ground/bm-57-2-kochevnik.glb  <-  https://sketchfab.com/3d-models/none-e2a1a369fa58406d8eb07aaf0d9ccd36
+ground/sr-5-gmlrs.glb  <-  https://sketchfab.com/3d-models/none-04d55f0189814680a53574563a5b7d8f
