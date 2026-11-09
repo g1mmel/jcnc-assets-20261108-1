@@ -56,3 +56,4 @@ air/vfw-vak-191b.glb  <-  https://sketchfab.com/3d-models/none-132f4c37508c42079
 ground/b-type.glb  <-  https://sketchfab.com/3d-models/none-ef20c165904944988bec82b4a71942ef
 ground/al-khalid.glb  <-  https://sketchfab.com/3d-models/none-01e94a1cd5984afcb9e5ca4ee0ed144e
 air/mig-31bm-foxhound.glb  <-  https://sketchfab.com/3d-models/none-b3926746c7ef481bb60871ab12d8ae24
+air/su-37-terminator.glb  <-  https://sketchfab.com/3d-models/none-9f9f54ef7ce14ae88d6234f893e07360
