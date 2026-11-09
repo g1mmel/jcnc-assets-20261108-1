@@ -48,3 +48,4 @@ air/f-35ax.glb  <-  https://sketchfab.com/3d-models/none-0516eb3af20b4264b36095c
 air/alpha-jet-a.glb  <-  https://sketchfab.com/3d-models/none-307a40dd74f84373aeaa117e2fdf78bf
 air/yak-141.glb  <-  https://sketchfab.com/3d-models/none-e0a4abe761e541a19612568cdeea74b2
 ground/m60.glb  <-  https://sketchfab.com/3d-models/none-e938ebb98f6f40e3b3a9b31a22a1c106
+air/su-39.glb  <-  https://sketchfab.com/3d-models/none-4ada7218a18f4e01985ce6dff59cbeb7
