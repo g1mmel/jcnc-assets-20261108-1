@@ -36,3 +36,4 @@ air/j-16-shenyang.glb  <-  https://sketchfab.com/3d-models/none-4ee246944ddb4651
 ground/stridsvagn-2000.glb  <-  https://sketchfab.com/3d-models/none-3b29db2b28b843d59db13d521018c012
 ground/stridsvagn-105.glb  <-  https://sketchfab.com/3d-models/none-6438292504f74930a30e6bc6aae431c3
 ground/hunter-afv.glb  <-  https://sketchfab.com/3d-models/none-5e4bb9fbf47345748313632b1e99ec9f
+ground/object-685.glb  <-  https://sketchfab.com/3d-models/none-e676d217ac16416f9117a08b1ae41088
