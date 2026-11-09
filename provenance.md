@@ -55,3 +55,4 @@ air/tornado-f3.glb  <-  https://sketchfab.com/3d-models/none-f3909a923c474344bb9
 air/vfw-vak-191b.glb  <-  https://sketchfab.com/3d-models/none-132f4c37508c42079a1c41753ad8dadb
 ground/b-type.glb  <-  https://sketchfab.com/3d-models/none-ef20c165904944988bec82b4a71942ef
 ground/al-khalid.glb  <-  https://sketchfab.com/3d-models/none-01e94a1cd5984afcb9e5ca4ee0ed144e
+air/mig-31bm-foxhound.glb  <-  https://sketchfab.com/3d-models/none-b3926746c7ef481bb60871ab12d8ae24
