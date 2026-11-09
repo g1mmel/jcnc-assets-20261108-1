@@ -19,3 +19,4 @@ ground/type-10-l-55.glb  <-  https://sketchfab.com/3d-models/none-7f216c1664a742
 ground/xm1203-nlos-c.glb  <-  https://sketchfab.com/3d-models/none-1be60a8e9a92412ba369bd85b6269eca
 ground/k3-ng-mbt.glb  <-  https://sketchfab.com/3d-models/none-b2d31abd284d493cb4c08808e0eb86de
 ground/karrar.glb  <-  https://sketchfab.com/3d-models/none-ab0b8fa23a0844f3a21cc8621cd3f15e
+ground/xm2001-crusader.glb  <-  https://sketchfab.com/3d-models/none-eba55676070b4b2c923a5379f2681ed9
