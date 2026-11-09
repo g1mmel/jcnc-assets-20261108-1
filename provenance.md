@@ -52,3 +52,4 @@ air/su-39.glb  <-  https://sketchfab.com/3d-models/none-4ada7218a18f4e01985ce6df
 air/mh-6-little-bird.glb  <-  https://sketchfab.com/3d-models/none-2edcedcbf16d417db0f4213c2e697d60
 ground/btr-80a.glb  <-  https://sketchfab.com/3d-models/none-6726af1f6c074a0b98e33a8943193e54
 air/tornado-f3.glb  <-  https://sketchfab.com/3d-models/none-f3909a923c474344bb92ecce1e59c359
+air/vfw-vak-191b.glb  <-  https://sketchfab.com/3d-models/none-132f4c37508c42079a1c41753ad8dadb
