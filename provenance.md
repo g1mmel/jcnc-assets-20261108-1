@@ -25,3 +25,4 @@ ground/bm-57-2-kochevnik.glb  <-  https://sketchfab.com/3d-models/none-e2a1a369f
 ground/sr-5-gmlrs.glb  <-  https://sketchfab.com/3d-models/none-04d55f0189814680a53574563a5b7d8f
 ground/stingray.glb  <-  https://sketchfab.com/3d-models/none-d3bc493ad2b649609f022f29ec880165
 ground/zsu-23-4m4-shilka.glb  <-  https://sketchfab.com/3d-models/none-1d604e8c96d44a57be26ecec860fad95
+ground/t-15-barbaris.glb  <-  https://sketchfab.com/3d-models/none-42f8fedf54e8410fa2a3575650325469
