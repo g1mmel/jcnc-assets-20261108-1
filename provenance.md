@@ -41,3 +41,4 @@ ground/object-640.glb  <-  https://sketchfab.com/3d-models/none-515b8a4679394497
 ground/object-787.glb  <-  https://sketchfab.com/3d-models/none-9de1fd72616941b8a1406a2770c2c3cf
 ground/9k31-strela-1m.glb  <-  https://sketchfab.com/3d-models/none-8fd8db2efd36415faee310f72275aa59
 ground/m551-sheridan.glb  <-  https://sketchfab.com/3d-models/none-15c7335cbfb4426fba698a2c38610273
+air/j-15-shenyang.glb  <-  https://sketchfab.com/3d-models/none-ff8d5c8470cb4775a44d894e094318a9
