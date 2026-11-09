@@ -16,3 +16,4 @@ ground/k21-knifv.glb  <-  https://sketchfab.com/3d-models/none-cbd1e74d6be947189
 ground/wz-120c.glb  <-  https://sketchfab.com/3d-models/none-0433d6af477e4f74a2059b645e94219e
 ground/wz-211.glb  <-  https://sketchfab.com/3d-models/none-50c0c67db7064c16928c2f8ae75e532d
 ground/type-10-l-55.glb  <-  https://sketchfab.com/3d-models/none-7f216c1664a74288bb960d4b69ef9e43
+ground/xm1203-nlos-c.glb  <-  https://sketchfab.com/3d-models/none-1be60a8e9a92412ba369bd85b6269eca
