@@ -34,3 +34,4 @@ ground/rooikat-mttd.glb  <-  https://sketchfab.com/3d-models/none-98594341434e47
 ground/g6-52-rhino.glb  <-  https://sketchfab.com/3d-models/none-7b70e39a539d45adaf06f665a8956fe7
 air/j-16-shenyang.glb  <-  https://sketchfab.com/3d-models/none-4ee246944ddb465197a3648022d911c9
 ground/stridsvagn-2000.glb  <-  https://sketchfab.com/3d-models/none-3b29db2b28b843d59db13d521018c012
+ground/stridsvagn-105.glb  <-  https://sketchfab.com/3d-models/none-6438292504f74930a30e6bc6aae431c3
