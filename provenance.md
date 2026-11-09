@@ -28,3 +28,4 @@ ground/zsu-23-4m4-shilka.glb  <-  https://sketchfab.com/3d-models/none-1d604e8c9
 ground/t-15-barbaris.glb  <-  https://sketchfab.com/3d-models/none-42f8fedf54e8410fa2a3575650325469
 ground/type-74-g-kai.glb  <-  https://sketchfab.com/3d-models/none-507284ddd58d437e8c0973317072b83b
 ground/plz-83.glb  <-  https://sketchfab.com/3d-models/none-183c350f045248279afb1c9e4e4e5b32
+air/j-50-trident.glb  <-  https://sketchfab.com/3d-models/none-d9c32994d790495d93bdd62e0166d86a
