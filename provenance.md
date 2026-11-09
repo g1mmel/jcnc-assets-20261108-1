@@ -45,3 +45,4 @@ air/j-15-shenyang.glb  <-  https://sketchfab.com/3d-models/none-ff8d5c8470cb4775
 ground/object-477.glb  <-  https://sketchfab.com/3d-models/none-8c6c6c316aeb4a06bac30129fc395bde
 ground/object-490b.glb  <-  https://sketchfab.com/3d-models/none-5f3d59ef58cf4e8eb3658e39c514d3cc
 air/f-35ax.glb  <-  https://sketchfab.com/3d-models/none-0516eb3af20b4264b36095cc56cc898f
+air/alpha-jet-a.glb  <-  https://sketchfab.com/3d-models/none-307a40dd74f84373aeaa117e2fdf78bf
