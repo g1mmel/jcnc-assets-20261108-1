@@ -4,3 +4,4 @@ ground/ztz99a.glb  <-  https://sketchfab.com/3d-models/none-05d89fdf9b614dd68578
 ground/wz-120.glb  <-  https://sketchfab.com/3d-models/none-7c84024d97444167add29fc00f22b0b3
 ground/wz-501a.glb  <-  https://sketchfab.com/3d-models/none-a348966fbc994fe6a48fb0fe78b77a54
 ground/type-89-ifv.glb  <-  https://sketchfab.com/3d-models/none-60889145bdff4678b6c6dee4b015ed8a
+ground/xm8-ags.glb  <-  https://sketchfab.com/3d-models/none-4b54278e14f14b53ad40ff29716b9730
