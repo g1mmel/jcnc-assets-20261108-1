@@ -65,3 +65,4 @@ air/wz-10.glb  <-  https://sketchfab.com/3d-models/none-a13537c6fc644d34ade58592
 ground/t114-bat.glb  <-  https://sketchfab.com/3d-models/none-f5ead646b892479595174cd855fb6ccb
 ground/t54e1.glb  <-  https://sketchfab.com/3d-models/none-f6a42d47e2bf492e903b534aa5b72cdf
 ground/merkava-mk-4.glb  <-  https://sketchfab.com/3d-models/none-35be0b5fbe1843db9014379e9ba95c22
+air/t-129-atak.glb  <-  https://sketchfab.com/3d-models/none-a1c8fe3d158d41b4aa11d2b2fc367d40
