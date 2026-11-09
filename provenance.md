@@ -35,3 +35,4 @@ ground/g6-52-rhino.glb  <-  https://sketchfab.com/3d-models/none-7b70e39a539d45a
 air/j-16-shenyang.glb  <-  https://sketchfab.com/3d-models/none-4ee246944ddb465197a3648022d911c9
 ground/stridsvagn-2000.glb  <-  https://sketchfab.com/3d-models/none-3b29db2b28b843d59db13d521018c012
 ground/stridsvagn-105.glb  <-  https://sketchfab.com/3d-models/none-6438292504f74930a30e6bc6aae431c3
+ground/hunter-afv.glb  <-  https://sketchfab.com/3d-models/none-5e4bb9fbf47345748313632b1e99ec9f
