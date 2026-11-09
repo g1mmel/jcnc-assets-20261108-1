@@ -61,3 +61,4 @@ air/dassault-se.glb  <-  https://sketchfab.com/3d-models/none-99aaea847e98462c8c
 air/f-14d-super-tomcat.glb  <-  https://sketchfab.com/3d-models/none-55480fc0584546de9c6ed0def55868df
 air/mi-35p.glb  <-  https://sketchfab.com/3d-models/none-d2c7fbe02ba54e96bf62a1ab78cb6a53
 air/oh-1-ninja.glb  <-  https://sketchfab.com/3d-models/none-d22e8511a3ee470bbb16dfaf7775f60e
+air/wz-10.glb  <-  https://sketchfab.com/3d-models/none-a13537c6fc644d34ade585926f4b3bf9
